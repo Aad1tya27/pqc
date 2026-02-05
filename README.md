@@ -5,4 +5,3 @@ Java implementation of **NIST-selected post-quantum cryptographic algorithms**:
 - **Kyber** – Key Encapsulation Mechanism (KEM)
 - **Dilithium** – Digital Signature Scheme
 
-For educational and research purposes only. Not intended for production use.
